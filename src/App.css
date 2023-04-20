@@ -78,7 +78,9 @@
   font-size: 15px;
 }
 
-.navContent {
+.navContent,
+.navContentMenu,
+.sideBarContent {
   padding: 7px;
   text-decoration: none;
   color: black;
@@ -90,10 +92,70 @@
   border-radius: 8px;
 }
 
+.navContentMenu:hover {
+  cursor: pointer;
+  background-color: rgba(192, 192, 192, 0.3);
+  border-radius: 8px;
+}
+
+.navContentMenu {
+  display: none;
+}
+
 .navBar {
   width: 100vw;
   display: flex;
   justify-content: space-around;
   position: fixed;
   z-index: 10;
+}
+
+.sideBar {
+  z-index: 10;
+  overflow-y: hidden;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: white;
+  width: 50%;
+}
+
+.sideBarContent {
+  padding: 15px;
+}
+
+@media screen and (max-width : 768px) {
+  .navContent {
+    display: none;
+  }
+
+  .navContentMenu {
+    display: block;
+  }
+
+  .menuTitle {
+    text-align: center;
+    padding-bottom: 15px;
+    border-bottom: 1px solid black;
+  }
+
+  .sideBar {
+    display: block;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+  }
+
+  .Buttons {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 35px;
+  }
+
+  .Button1,
+  .Button2 {
+    margin: 15px;
+  }
 }

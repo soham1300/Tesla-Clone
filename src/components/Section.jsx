@@ -7,7 +7,10 @@ function SectionContaint() {
         carInfo.map((data) =>
             <div style={{
                 backgroundImage: `url(` + require(`../images/${data.image}`) + `)`,
-            }} className='Section' id={data.title}>
+            }}
+                className='Section'
+                id={data.title}
+            >
                 <div className='SectionHead'>
                     <h1 className='Title'>{data.title}</h1>
                     <p>{data.description}</p>
@@ -23,9 +26,9 @@ function SectionContaint() {
 }
 
 
-function Section() {
+function Section({ setMenu }) {
     return (
-        <div className='sections'>
+        <div className='sections' onClick={() => { setMenu(false) }}>
             <SectionContaint />
         </div>
 
