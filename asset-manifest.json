@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.84280b7a.css",
-    "main.js": "/my-app/static/js/main.d3aba17f.js",
-    "static/js/787.860837ff.chunk.js": "/my-app/static/js/787.860837ff.chunk.js",
-    "static/media/solar-roof.jpg": "/my-app/static/media/solar-roof.acfd904501bf0bea5f9c.jpg",
-    "static/media/solar-panel.jpg": "/my-app/static/media/solar-panel.d7d441d74e34d37c2c00.jpg",
-    "static/media/model-y.jpg": "/my-app/static/media/model-y.30acb76aab6f760a753a.jpg",
-    "static/media/new-interior.jpg": "/my-app/static/media/new-interior.16586851d57ecfbc22a3.jpg",
-    "static/media/model-3.jpg": "/my-app/static/media/model-3.30651f796c26e128fa1b.jpg",
-    "static/media/model-x.jpg": "/my-app/static/media/model-x.25937b941a6599342671.jpg",
-    "static/media/model-s.jpg": "/my-app/static/media/model-s.b65171b9fc7d94857753.jpg",
-    "static/media/audio.jpg": "/my-app/static/media/audio.93bbd9629c3906817112.jpg",
-    "static/media/connected.jpg": "/my-app/static/media/connected.e908d6555610dd7fd7d7.jpg",
-    "static/media/accessories.jpg": "/my-app/static/media/accessories.027ada94d343f5d81f6d.jpg",
-    "static/media/game.jpg": "/my-app/static/media/game.80315756aa7faa12bcf0.jpg",
-    "static/media/tesla.png": "/my-app/static/media/tesla.cf48d3ca8ada4980a93e.png",
-    "static/media/logo.svg": "/my-app/static/media/logo.a7b59bc6aae7059ffd7b.svg",
-    "index.html": "/my-app/index.html",
-    "static/media/down-arrow.svg": "/my-app/static/media/down-arrow.9b52668fb01a76a29986.svg",
-    "main.84280b7a.css.map": "/my-app/static/css/main.84280b7a.css.map",
-    "main.d3aba17f.js.map": "/my-app/static/js/main.d3aba17f.js.map",
-    "787.860837ff.chunk.js.map": "/my-app/static/js/787.860837ff.chunk.js.map"
+    "main.css": "/Tesla/static/css/main.84280b7a.css",
+    "main.js": "/Tesla/static/js/main.e8bcdedd.js",
+    "static/js/787.860837ff.chunk.js": "/Tesla/static/js/787.860837ff.chunk.js",
+    "static/media/solar-roof.jpg": "/Tesla/static/media/solar-roof.acfd904501bf0bea5f9c.jpg",
+    "static/media/solar-panel.jpg": "/Tesla/static/media/solar-panel.d7d441d74e34d37c2c00.jpg",
+    "static/media/model-y.jpg": "/Tesla/static/media/model-y.30acb76aab6f760a753a.jpg",
+    "static/media/new-interior.jpg": "/Tesla/static/media/new-interior.16586851d57ecfbc22a3.jpg",
+    "static/media/model-3.jpg": "/Tesla/static/media/model-3.30651f796c26e128fa1b.jpg",
+    "static/media/model-x.jpg": "/Tesla/static/media/model-x.25937b941a6599342671.jpg",
+    "static/media/model-s.jpg": "/Tesla/static/media/model-s.b65171b9fc7d94857753.jpg",
+    "static/media/audio.jpg": "/Tesla/static/media/audio.93bbd9629c3906817112.jpg",
+    "static/media/connected.jpg": "/Tesla/static/media/connected.e908d6555610dd7fd7d7.jpg",
+    "static/media/accessories.jpg": "/Tesla/static/media/accessories.027ada94d343f5d81f6d.jpg",
+    "static/media/game.jpg": "/Tesla/static/media/game.80315756aa7faa12bcf0.jpg",
+    "static/media/tesla.png": "/Tesla/static/media/tesla.cf48d3ca8ada4980a93e.png",
+    "static/media/logo.svg": "/Tesla/static/media/logo.a7b59bc6aae7059ffd7b.svg",
+    "index.html": "/Tesla/index.html",
+    "static/media/down-arrow.svg": "/Tesla/static/media/down-arrow.9b52668fb01a76a29986.svg",
+    "main.84280b7a.css.map": "/Tesla/static/css/main.84280b7a.css.map",
+    "main.e8bcdedd.js.map": "/Tesla/static/js/main.e8bcdedd.js.map",
+    "787.860837ff.chunk.js.map": "/Tesla/static/js/787.860837ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.84280b7a.css",
-    "static/js/main.d3aba17f.js"
+    "static/js/main.e8bcdedd.js"
   ]
 }
